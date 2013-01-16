@@ -1,0 +1,9 @@
+*.swp
+*.o
+*.d
+*.a
+*.so
+dice
+dice.exe
+*_output.txt
+log.txt
